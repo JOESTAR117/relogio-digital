@@ -9,6 +9,7 @@
 
 body{
     height: 100vh;
+    background-color: aqua;
     background-image: url('https://images8.alphacoders.com/714/714894.jpg');
     background-repeat: no-repeat;
     background-size: cover;
